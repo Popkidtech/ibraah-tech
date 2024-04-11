@@ -54,16 +54,15 @@ router.get('/', async (req, res) => {
                 let data = fs.readFileSync(__dirname + `/temp/${id}/creds.json`);
                 await delay(800);
                let b64data = Buffer.from(data).toString('base64');
-               let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id,
+               let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: '' + b64data });
 
                let SIGMA_MD_TEXT = `
-*𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
+*𝙎𝙀𝙎𝙎𝙄𝙊𝙉 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
 *𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃*
 *𝙊𝙒𝙉𝙀𝙍 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎*
 ____________________________________
 ╔════◇
-║『 𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙏𝙃𝙀 𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇 
-║ 𝘽𝙊𝙏 』
+║『 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝙄 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
 ║ OK YOUR SESSION IS READY COPY IT  
 ║ AND HOST IT ON HEROKU.
 ╚════════════════════╝
