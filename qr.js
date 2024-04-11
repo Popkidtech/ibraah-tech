@@ -79,7 +79,9 @@ ____________________________________
 ╚════════════════════╝ 
  *©𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗧𝗘𝗖𝗛*
 ___________________________________
-*Yoo Don't forget to star the repo*_
+
+Yoo Don't forget to star the repo`
+					
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
 
 
