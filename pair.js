@@ -57,26 +57,25 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: 'GIFTED;;;' + b64data });
 
                let SIGMA_MD_TEXT = `
-*✅sᴇssɪᴏɴ ᴄᴏɴɴᴇᴄᴛᴇᴅ✅*
-*Made With 💜*
-*By ɢɪғᴛᴇᴅ ᴛᴇᴄʜ💜*
+*𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙄𝙎 𝙊𝙉𝙇𝙄𝙉𝙀*
+*𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝙏𝙀𝘾𝙃*
+*𝙊𝙒𝙉𝙀𝙍 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝘿𝘼𝙈𝙎*
 ____________________________________
 ╔════◇
-║『 𝐖𝐎𝐖 𝐘𝐎𝐔'𝐕𝐄 𝐂𝐇𝐎𝐒𝐄𝐍 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 』
-║ You've Completed the First Step
-║ to Deploy a Whatsapp Bot.
+║『 𝘽𝙇𝘼𝘾𝙆 𝙋𝘼𝙉𝙏𝙃𝙀𝙍 𝙏𝙃𝙀 𝙊𝙍𝙄𝙂𝙄𝙉𝘼𝙇 𝘽𝙊𝙏 』
+║ OK YOUR SESSION IS READY COPY IT  
+║ AND HOST IT ON HEROKU.
 ╚════════════════════╝
 ╔═════◇
-║ 『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@giftedtechnexus_
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/NHCZC5DSOEUXB1_
-║❒ 𝐑𝐞𝐩𝐨: _https://github.com/giftedtechnexus/Gifted-Md_
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/IDm8SAnEWRyEufMAcjrzin_
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
-║❒ 𝐏𝐥𝐮𝐠𝐢𝐧𝐬: _https://github.com/giftedtechnexus/Gifted-Md-Plugins_
-║ 💜💜💜
+║ 『••• OWNER INFO •••』
+║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@ibrahimmdgpt_
+║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/74F2PC4JA4F3P1_
+║❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech/IBRAHIM-MD_
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/H6KaBzAhRnw52DM93KsRy2_
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaZuGSxEawdxZK9CzM0Y_
+║ 🐯🐯🐯
 ╚════════════════════╝ 
- *©²⁰²⁴ ᴳᴵᶠᵀᴱᴰ ᵂᴴᴬᵀˢᴬᴾᴾ ᴮᴼᵀˢ*
+ *©𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗧𝗘𝗖𝗛*
 ___________________________________
 
 Don't Forget To Give Star⭐ To My Repo`
