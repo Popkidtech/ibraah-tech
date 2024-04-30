@@ -72,7 +72,7 @@ ____________________________________
 ║ 『••• OWNER INFO •••』
 ║ ❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _https://www.youtube.com/@ibrahimmdgpt_
 
-║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/254739937062_
+║ ❒ 𝐎𝐰𝐧𝐞𝐫: _https://t.me/@Ibrahimadamstech_
 
 ║ ❒ 𝐑𝐞𝐩𝐨: _https://github.com/ibrahimaitech_
 
