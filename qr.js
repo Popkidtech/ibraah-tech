@@ -65,8 +65,8 @@ router.get('/', async (req, res) => {
 ____________________________________
 ╔════◇
 ║『 𝙄𝘽𝙍𝘼𝙃𝙄𝙈 𝘼𝙄 𝙄𝙎 𝙍𝙀𝘼𝘿𝙔 𝙏𝙊 𝘿𝙀𝙋𝙇𝙊𝙔』
-║ OK YOUR SESSION IS READY COPY IT  
-║ AND HOST IT ON HEROKU.
+║ YOUR SESSION IS READY. COPY IT  
+║ AND HOST IT ON YOUR WEB.
 ╚════════════════════╝
 ╔═════◇
 ║ 『••• OWNER INFO •••』
@@ -86,7 +86,6 @@ ____________________________________
 ╚════════════════════╝ 
  *©𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗧𝗘𝗖𝗛*
 ___________________________________
-
 Yoo Don't forget to star the repo`
 					
 	 await Qr_Code_By_Maher_Zubair.sendMessage(Qr_Code_By_Maher_Zubair.user.id,{text:SIGMA_MD_TEXT},{quoted:session})
